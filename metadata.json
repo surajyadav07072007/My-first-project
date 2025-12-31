@@ -1,0 +1,7 @@
+{
+  "name": "VeriJob - Fraud Detection & Verification Portal",
+  "description": "A professional AI-powered platform to verify job and internship listings, protecting students from scams and fake recruitments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
